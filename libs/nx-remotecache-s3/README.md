@@ -2,7 +2,7 @@
 
 # @pellegrims/nx-remotecache-s3
 
-> [!WARNING] > **DEPRECATED:** This package is no longer maintained and relies on the unmaintained `nx-remotecache-custom` package. Users are encouraged to migrate to [Nx Powerpack](https://nx.dev/powerpack/remote-cache) or other community-maintained remote cache runners.
+> **DEPRECATED:** This package is no longer maintained and relies on the unmaintained `nx-remotecache-custom` package. Users are encouraged to migrate to [Nx Powerpack](https://nx.dev/powerpack/remote-cache) or other community-maintained remote cache runners.
 
 A task runner for [@nrwl/nx](https://nx.dev/react) that uses s3 storage as a remote cache. This enables all team members and CI servers to share a single cache. The concept and benefits of [computation caching](https://nx.dev/angular/guides/computation-caching) are explained in the NX documentation.
 
